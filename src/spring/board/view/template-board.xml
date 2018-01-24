@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC "-//Apache Software Foundation//DTD Tiles Configuration 2.1//EN" "http://tiles.apache.org/dtds/tiles-config_2_1.dtd">
+
+<tiles-definitions>
+
+	<definition name="ajaxList" 	template="/WEB-INF/board/ajaxList.jsp" />
+	<definition name="content" 		template="/WEB-INF/board/content.jsp" />
+	<definition name="delete" 		template="/WEB-INF/board/delete.jsp" />
+	<definition name="insert" 		template="/WEB-INF/board/insert.jsp" />
+	<definition name="list" 		template="/WEB-INF/board/list.jsp" />
+	<definition name="redirect" 	template="/WEB-INF/board/redirect.jsp" />
+	<definition name="redirect2" 	template="/WEB-INF/board/redirect2.jsp" />
+	<definition name="write" 		template="/WEB-INF/board/write.jsp" />	
+	<definition name="json"			template="/WEB-INF/board/json.jsp"/>
+</tiles-definitions>
